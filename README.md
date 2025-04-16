@@ -95,14 +95,8 @@ streamlit run AILogoGenerator.py
 ## Folder Structure
 
 
-ai-logo-generator/
-│
-├── Assets/                 # Optional UI assets
-├── Loras/                  # LoRA weights for fine-tuning
-├── app.py                  # Main Streamlit application
-├── models/                 # Local SDXL model files
-├── README.md
-└── requirements.txt
+![image](https://github.com/user-attachments/assets/8e7796df-8100-4f75-b974-50c00d20612f)
+
 
 
 ## How It Works
