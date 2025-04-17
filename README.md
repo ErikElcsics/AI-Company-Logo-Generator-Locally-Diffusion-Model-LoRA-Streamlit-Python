@@ -68,9 +68,9 @@ This app runs entirely offline after downloading the models. No image generation
 1. Clone the repo
 
 
-git clone https://github.com/ErikElcsics/AI-Company-Logo-Generator-Locally-Diffusion-Model-LoRA-Streamlit-Python.git
+- git clone https://github.com/ErikElcsics/AI-Company-Logo-Generator-Locally-Diffusion-Model-LoRA-Streamlit-Python.git
 
-cd ai-logo-generator
+- cd ai-logo-generator
 
 
 2. install dependencies
