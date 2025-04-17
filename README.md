@@ -69,6 +69,7 @@ This app runs entirely offline after downloading the models. No image generation
 
 
 git clone https://github.com/ErikElcsics/AI-Company-Logo-Generator-Locally-Diffusion-Model-LoRA-Streamlit-Python.git
+
 cd ai-logo-generator
 
 
